@@ -1,0 +1,11 @@
+[
+    {
+      "nom": "GameStop",
+      "sigle": "GME",
+      "patrimoine": {
+        "quantite": 1,
+        "prix_revient": 320
+      }
+    }
+  ]
+  
