@@ -136,7 +136,7 @@
       "timeFrom": null,
       "timeRegions": [],
       "timeShift": null,
-      "title": "Cours de l'action",
+      "title": "Course",
       "tooltip": {
         "shared": true,
         "sort": 0,
@@ -222,7 +222,7 @@
         {
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -258,7 +258,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Nb. d'actions",
+      "title": "# shares",
       "type": "stat"
     },
     {
@@ -312,7 +312,7 @@
         {
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -348,7 +348,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Prix de revient",
+      "title": "Cost price",
       "type": "stat"
     },
     {
@@ -403,7 +403,7 @@
           "alias": "quantite",
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -440,7 +440,7 @@
           "alias": "cours",
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -476,7 +476,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Valorisation totale",
+      "title": "Total valuation",
       "transformations": [
         {
           "id": "calculateField",
@@ -553,7 +553,7 @@
           "alias": "prix_revient",
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -590,7 +590,7 @@
           "alias": "quantite",
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -627,7 +627,7 @@
           "alias": "cours",
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -663,7 +663,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "+/- value latente",
+      "title": "+/- capital gains",
       "transformations": [
         {
           "id": "calculateField",
@@ -836,7 +836,7 @@
       "timeFrom": null,
       "timeRegions": [],
       "timeShift": null,
-      "title": "Cours de l'action",
+      "title": "Course",
       "tooltip": {
         "shared": true,
         "sort": 0,
@@ -925,7 +925,7 @@
         {
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -961,7 +961,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Nb. d'actions",
+      "title": "# shares",
       "type": "stat"
     },
     {
@@ -1018,7 +1018,7 @@
         {
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -1112,7 +1112,7 @@
           "alias": "quantite",
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -1185,7 +1185,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Valorisation totale",
+      "title": "Total valuation",
       "transformations": [
         {
           "id": "calculateField",
@@ -1265,7 +1265,7 @@
           "alias": "prix_revient",
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -1302,7 +1302,7 @@
           "alias": "quantite",
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -1510,7 +1510,7 @@
         {
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -1637,7 +1637,7 @@
         {
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -1730,7 +1730,7 @@
         {
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -1897,7 +1897,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Valorisation totale",
+      "title": "Total valuation",
       "transformations": [
         {
           "id": "calculateField",
@@ -1977,7 +1977,7 @@
           "alias": "prix_revient",
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -2014,7 +2014,7 @@
           "alias": "quantite",
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -2051,7 +2051,7 @@
           "alias": "cours",
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -2222,7 +2222,7 @@
         {
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -2349,7 +2349,7 @@
         {
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -2385,7 +2385,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Nb. d'actions",
+      "title": "# shares",
       "type": "stat"
     },
     {
@@ -2442,7 +2442,7 @@
         {
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -2689,7 +2689,7 @@
           "alias": "prix_revient",
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -2726,7 +2726,7 @@
           "alias": "quantite",
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {
@@ -2763,7 +2763,7 @@
           "alias": "cours",
           "groupBy": [
             {
-              "params": ["15m"],
+              "params": ["30s"],
               "type": "time"
             },
             {

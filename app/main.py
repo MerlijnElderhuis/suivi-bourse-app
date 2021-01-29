@@ -53,4 +53,4 @@ if __name__ == "__main__":
     while True:
         print('suivi.run()')
         suivi.run()
-        time.sleep(5)
+        time.sleep(2)
